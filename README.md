@@ -11,7 +11,7 @@ Docker: Stellen Sie sicher, dass Docker auf Ihrem System installiert ist und Sie
 
 ## Git Repository herunterladen
 
-Github Repository: [https://github.com/masluse/Architecture-Ref.-Card-03-RDS](https://github.com/masluse/Architecture-Ref.-Card-03-RDS)
+Github Repository: [https://github.com/masluse/ref-card-03](https://github.com/masluse/ref-card-03)
 
 Klonen Sie das Repository auf Ihren lokalen Computer und navigieren Sie in das Projektverzeichnis:
 ``` bash
